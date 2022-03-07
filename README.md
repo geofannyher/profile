@@ -1,0 +1,2 @@
+# profile
+ini adalah profile
