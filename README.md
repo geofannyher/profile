@@ -1,2 +1,1 @@
 # profile
-ini adalah profile
